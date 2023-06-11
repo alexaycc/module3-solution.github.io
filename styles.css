@@ -1,0 +1,25 @@
+body {
+   color: black;
+}
+
+.navbar {
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand{
+    color: #1c1c20;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+section {
+    border: 2px solid purple;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    padding: 5%;
+    background-color: lightblue;
+
+}
